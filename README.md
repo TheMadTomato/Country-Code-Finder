@@ -4,7 +4,7 @@ Or what country does a certain two letter signify?
 
 And google decided to be stupid and only give you answers through links or AI. 
 
-To Avoid wasting you workflow just to figure how isnt the Country code for Angola "AN"-True story- i Have built a bash script that automate the process to me without the need of any AI or Search engine. Angola is "AO" somehow btw, and and no country have the letters "AN" reserved which makes me angry (/_\).
+To Avoid wasting you workflow just to figure how isnt the Country code for Angola "AN"-True story- i Have built a bash script that automate the process to me without the need of any AI or Search engine. Angola is "AO" somehow btw, and and no country have the letters "AN" reserved which makes me angry (¬_¬").
 
 ---
 
